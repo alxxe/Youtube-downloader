@@ -1,0 +1,6 @@
+# Youtube-downloader
+Python youtube downloader (first python project)
+
+pip install pytube
+git clone https://github.com/alxxe/Youtube-downloader.git
+cd Youtube-downloader
